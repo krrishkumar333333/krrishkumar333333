@@ -2,7 +2,7 @@
 
 **Data Science | Quantitative Analysis**
 
-Dual-degree student in Chemical Engineering (BIT Mesra) and Data Science & Applications (IIT Madras). I build end-to-end ML pipelines and like to verify my own numbers before I trust them — most of the projects below involved catching and fixing a real bug or a false claim along the way, and I think that process is worth showing, not hiding.
+Dual-degree student in Chemical Engineering (BIT Mesra) and Data Science & Applications (IIT Madras). I build end-to-end ML pipelines and like to verify my own numbers before I trust them - most of the projects below involved catching and fixing a real bug or a false claim along the way, and I think that process is worth showing, not hiding.
 
 ---
 
